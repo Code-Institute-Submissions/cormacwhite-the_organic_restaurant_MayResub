@@ -44,3 +44,17 @@ The Barn Organic Restaurant is a family restaurant located just outside Dublin c
 
            ![Contact Page](img/contactpage.JPG)
 
+
+
+<h3>Testing</h3>
+
+Validator Testing
+
+HTML
+
+No errors were returned when passing through the official W3C validator
+
+
+CSS
+
+No errors were found when passing through the official (Jigsaw) validator

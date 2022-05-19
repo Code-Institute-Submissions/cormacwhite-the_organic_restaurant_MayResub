@@ -31,3 +31,16 @@ The Barn Organic Restaurant is a family restaurant located just outside Dublin c
 
     ![Menu Page](/workspace/the_organic_restaurant/img/menupage.JPG)
 
+
+
+<h4>•	The contact page</h4>
+
+       •	The contact pages consist of a form that customers can fill out in order to get in contact with the restaurant to make bookings to make amendments to bookings
+
+       •	The form allows customers to input their name, email, phone number and to write a message as to why they are contacting the restaurant. 
+
+       •	The contact page also includes links to the restaurants social media accounts which allows customers to connect with the restaurant there also 
+
+
+           ![Contact Page](img/contactpage.JPG)
+

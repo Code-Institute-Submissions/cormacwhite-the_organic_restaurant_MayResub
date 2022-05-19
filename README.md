@@ -12,7 +12,7 @@ The Barn Organic Restaurant is a family restaurant located just outside Dublin c
 
        •	This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-      ![Navigation Bar](/workspace/the_organic_restaurant/img/navbar.JPG)
+![Navigation Bar](img/navbar.JPG)
 
 
 <h4>•	The landing page</h4>
@@ -22,14 +22,15 @@ The Barn Organic Restaurant is a family restaurant located just outside Dublin c
        •	The landing page also displays the opening hours of the restaurant
 
 
-    ![Landing Page](/workspace/the_organic_restaurant/img/landingPage.JPG)
+![Landing Page](img/landingPage.JPG)
 
 
 <h4>•	The menu page</h4>
 
        •	The menu pages display’s the restaurant’s menu in a simple way. The page highlights the restaurants signature dishes and what customers can expect.  
 
-    ![Menu Page](/workspace/the_organic_restaurant/img/menupage.JPG)
+
+![Menu Page](img/menupage.JPG)
 
 
 
@@ -42,7 +43,7 @@ The Barn Organic Restaurant is a family restaurant located just outside Dublin c
        •	The contact page also includes links to the restaurants social media accounts which allows customers to connect with the restaurant there also 
 
 
-           ![Contact Page](img/contactpage.JPG)
+![Contact Page](img/contactpage.JPG)
 
 
 
